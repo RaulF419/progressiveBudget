@@ -2,7 +2,7 @@
 
 View the App here : https://progressivebudget-hw-deploy.herokuapp.com/
 
-![]()
+![](https://github.com/RaulF419/progressiveBudget/blob/main/public%2FbudgetappPic.png)
 
 
 
